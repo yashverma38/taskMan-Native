@@ -1,0 +1,23 @@
+# Xcode
+.DS_Store
+*/build/
+*.derivedData
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+
+# Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Gemini
+GeminiService.swift
+test_api.sh
